@@ -11,11 +11,11 @@ protein_HMM_script.py
 NOTE: This file refers to a java .jar file that MUST be present in the same directory as the project files in order to run the program from the script file. Otherwise, to perform all of the steps besides protein HMM training, run the following files in the following order:
 
 ```sh
-* BLAST.py
-* curate_BLAST_results.py
-* MSA.py
-* adjust_fasta_files.py
-* phylogenetic_tree.py
+1. BLAST.py
+2. curate_BLAST_results.py
+3. MSA.py
+4. adjust_fasta_files.py
+5. phylogenetic_tree.py
 
 ```
 
